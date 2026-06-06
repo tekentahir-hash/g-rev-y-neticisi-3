@@ -10,6 +10,8 @@
     <application
         android:allowBackup="true"
         android:label="Görev Takip"
+        android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher"
         android:theme="@style/Theme.TaskManager"
         android:supportsRtl="true">
 
